@@ -1,19 +1,25 @@
+<h1 align="center">Hi 👋, I'm I am Razzak</h1>
+<h3 align="center">I am a professional web developer.</h3>
 
-![I am a professional web developer.](https://github.com/freelancerraz152/gig-banner-design/blob/main/123-456-7890.png?raw=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerraz152&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerraz152" /> </p>
 
-# Hi there 👋, I am Razzak
-## I am a professional web developer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freelancerraz152" alt="freelancerraz152" /></a> </p>
 
-I am Razzak form Bangladesh. I am a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I always believe to hard work and quality work. Most of the time I work with WordPress but some technologies I enjoy working with include HTML5, CSS3, JavaScript, JQUERY, BOOTSTRAP and PHP.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Skills: ✅ HTML ✅ CSS ✅ JAVASCRIPT✅ JQUERY✅ BOOTSTRAP ✅ WORDPRESS ✅ PHP 
+- 📫 How to reach me **raz46418316@gmail.com**
 
-- 🔭 I’m currently working on fiverr.com 
-- 🌱 I’m currently learning php 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development 
-- ⚡ Fun fact: love coding 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/freelancerraz152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="freelancerraz152" height="30" width="40" /></a>
+<a href="https://fb.com/freelancerraz152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancerraz152" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/freelancerraz152)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/photo/?fbid=259110776288584&set=a.148107157388947)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/freelancerraz152)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://freelancerraz152.github.io/Brigate/)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freelancerraz152&show_icons=true&locale=en&layout=compact" alt="freelancerraz152" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freelancerraz152&show_icons=true&locale=en" alt="freelancerraz152" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freelancerraz152&" alt="freelancerraz152" /></p>
